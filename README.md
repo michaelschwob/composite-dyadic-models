@@ -1,5 +1,5 @@
 # composite-dyadic-models
-Julia and R Code for Schwob, Hooten, Narasimhan, "Composite Dyadic Models for Spatio-Temporal Data," in review.
+Julia and R Code for Schwob, Hooten, Narasimhan, "Composite Dyadic Models for Spatio-Temporal Data," _Biometrics_, 2024.
 
 ## aDNA
 Contains the code used to analyze the Bronze Age Europe human genomes.
